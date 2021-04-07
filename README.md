@@ -1,5 +1,19 @@
 ### Hi there 👋
-
+```javascript
+const me = {
+  name : 'Ulisses Marcondes',
+  age : 36,
+  education: 'Information System at Unipar',
+  job: 'Web | Mobile Developer ',
+  company: 'Audacer',
+  skills: [
+    'JavaScript',  
+    'NodeJS', 
+    'React',
+    'React Native',
+    'Flutter'
+  ]
+ }
 <!--
 **ulissesms/ulissesms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
