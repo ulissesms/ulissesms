@@ -35,10 +35,6 @@ const me = {
 
   <img align="right" alt="UlissesMs" height="126" width="126" src="https://media.giphy.com/media/u6DUcQbPPRHUAwe2tg/giphy.gif?cid=ecf05e47cq7jm6qwn6lektiytazialu307tpifeq3gtz4t72&rid=giphy.gif">
 </div> 
-  
-##  
-  
-
 <div> 
   <a href="https://instagram.com/ulissesms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Ulissesms ulissesms#7930" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
