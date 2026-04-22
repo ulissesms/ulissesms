@@ -20,7 +20,7 @@ const me = {
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulissesms&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true)](https://github.com/ulissesms)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulissesms&layout=compact&langs_count=7&theme=blueberry)](https://github.com/ulissesms)
 
-<table>
+<table border="0">
   <tr>
     <td><img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></td>
     <td><img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
